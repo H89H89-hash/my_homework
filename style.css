@@ -1,0 +1,23 @@
+.form {
+  background-color: lightyellow;
+}
+.feed {
+  background-color: yellow;
+  width: 250px;
+  height: 100px;
+}
+.comand_name {
+  font-size: 50px;
+}
+.G_letter {
+  color: yellow;
+  font-size: 90px;
+}
+.Р_letter {
+  color: yellow;
+  font-size: 50px;
+}
+.black {
+  color: white;
+  background-color: black;
+}
